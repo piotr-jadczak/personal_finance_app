@@ -1,0 +1,41 @@
+.expense-description {
+  
+}
+
+.expense-note {
+  font-size: 1.2rem;
+  font-weight: 600;
+  padding-left: 0.25rem;
+}
+
+.expense-amount {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #007bff;
+  padding-left: 0.25rem;
+}
+
+.expense-categories {
+  padding-top: 0.5rem;
+  font-size: 1rem;
+}
+
+.expense-badge {
+  color: #fff;
+  background-color: #17a2b8;
+  border-radius: 0.25rem;
+  padding: 0.25em 0.4em;
+  margin-left: 0.25rem;
+}
+
+.expense-delete-button {
+  color: red;
+}
+
+.expense-delete-button:hover {
+  opacity: 0.6;
+}
+
+.expense-button-holder {
+  text-align: right;
+}

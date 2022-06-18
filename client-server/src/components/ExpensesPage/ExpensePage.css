@@ -1,0 +1,8 @@
+.add-expense {
+  color: #28a745;
+  padding-left: 2rem;
+}
+
+.add-expense:hover {
+  opacity: 0.6;
+}

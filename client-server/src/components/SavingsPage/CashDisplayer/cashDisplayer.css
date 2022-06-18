@@ -1,0 +1,51 @@
+
+.total-money {
+  text-align: center;
+  padding-top: 1rem;
+  font-size: 2rem;
+}
+
+.total-underscore {
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+.edit-button {
+  text-align: right;
+  color: #007bff;
+  cursor: pointer;
+  margin: 0;
+  padding: 0;
+  float: right;
+}
+
+.edit-button:hover {
+  opacity: 0.8;
+}
+
+.form-label {
+  padding-top: 0.2rem;
+  padding-left: 0.2rem;
+}
+
+.form-button {
+  width: 100%;
+}
+
+.form-update-label {
+  text-align: center;
+  padding-top: 0.2rem;
+  text-decoration: none;
+  color: black;
+  padding-left: 0.2rem;
+}
+
+.form-update-name {
+  text-align: center;
+  font-size: 1.2rem;
+  padding-top: 0.2rem;
+  text-decoration: none;
+  color: black;
+  padding-left: 0.2rem;
+  font-weight: 600;
+}

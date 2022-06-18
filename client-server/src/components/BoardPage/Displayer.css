@@ -1,0 +1,14 @@
+.displayer-money {
+  text-align: center;
+  padding-top: 1rem;
+  font-size: 2rem;
+}
+
+.displayer-underscore {
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+.displayer-placeholder {
+  font-size: 1rem;
+}

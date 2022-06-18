@@ -1,0 +1,19 @@
+.form-label {
+  padding-top: 0.2rem;
+  padding-left: 0.2rem;
+  margin-bottom: 0.5rem;
+  text-decoration: none;
+  color: black;
+}
+
+.form-button {
+  width: 100%;
+  margin-top: 1rem;
+}
+
+.sign-title {
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-size: 2rem;
+}

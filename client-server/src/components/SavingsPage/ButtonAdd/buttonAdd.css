@@ -1,0 +1,16 @@
+.add-button {
+  text-align: center;
+  background-color: #6c757d !important;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  border-radius: 1rem;
+  color: white;
+  font-size: 1.5rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.add-button:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}

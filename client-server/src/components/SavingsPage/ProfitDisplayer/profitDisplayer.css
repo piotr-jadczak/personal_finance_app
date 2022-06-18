@@ -1,0 +1,15 @@
+
+.total-money {
+  text-align: center;
+  padding-top: 1rem;
+  font-size: 2rem;
+}
+
+.total_underscore {
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+.total-money-percent {
+  font-size: 0.9rem;
+}

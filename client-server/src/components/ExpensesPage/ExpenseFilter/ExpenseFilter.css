@@ -1,0 +1,19 @@
+.filter-wrapper {
+  display: flex;
+}
+
+.filter-label {
+  padding-left: 1rem;
+  padding-right: 0.5rem;
+}
+
+.filter-button {
+  margin-left: 0.5rem;
+  color: white;
+  background-color: #343a40;
+  border-radius: 0.2rem;
+}
+
+.filter-button:hover {
+  background-color: black;
+}

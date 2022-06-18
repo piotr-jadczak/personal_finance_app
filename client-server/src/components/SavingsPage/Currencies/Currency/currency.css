@@ -1,0 +1,94 @@
+.currency {
+  text-align: center;
+  border-radius: 1rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  border-radius: 1rem;
+  line-height: 1.2;
+  border: 2px solid #6c757d;
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+  background-color: #f8f9fa;
+}
+
+.min-descriptor {
+  font-size: 0.7rem;
+  text-decoration: none;
+  color: #6c757d;
+}
+
+.currency-price {
+  color: #007bff;
+  font-size: 1.4rem;
+  text-decoration: none;
+}
+
+.currency-name {
+  font-size: 1.2rem;
+  text-decoration: none;
+  color: black;
+}
+
+.curr-buttons-holder {
+  text-align: right;
+  padding-top: 0.5rem;
+}
+
+.curr-delete-button {
+  color: red;
+  /* padding-right: 1rem; */
+  margin-right: 1rem;
+}
+
+.curr-delete-button:hover {
+  opacity: 0.6;
+}
+
+.curr-edit-button {
+  color: grey;
+  margin-right: 0.5rem;
+  /* padding-right: 1rem; */
+}
+
+.curr-edit-button:hover {
+  opacity: 0.6;
+}
+
+.curr-time-holder {
+  text-align: right;
+  padding-bottom: 0.1rem;
+}
+
+.curr-fetch-time {
+  color: grey;
+  font-size: 0.8rem;
+  text-decoration: none;
+  padding-right: 1rem;
+}
+
+.form-label {
+  padding-top: 0.2rem;
+  padding-left: 0.2rem;
+}
+
+.form-button {
+  width: 100%;
+}
+
+.form-update-label {
+  text-align: center;
+  padding-top: 0.2rem;
+  text-decoration: none;
+  color: black;
+  padding-left: 0.2rem;
+}
+
+.form-update-name {
+  text-align: center;
+  font-size: 1.2rem;
+  padding-top: 0.2rem;
+  text-decoration: none;
+  color: black;
+  padding-left: 0.2rem;
+  font-weight: 600;
+}

@@ -1,0 +1,18 @@
+.goal-wrapper {
+  margin: 2em;
+  padding: 0.5rem;
+}
+
+.goal-button {
+  text-align: right;
+}
+
+.goal-wrapper {
+  width: 400px;
+  border-radius: 1rem;
+  border: 2px solid #6c757d;
+}
+
+.goal-description {
+  font-size: 1.4rem;
+}
